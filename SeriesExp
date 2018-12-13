@@ -1,0 +1,3 @@
+
+series(cos(x), x)
+series(1/cos(x), x)
